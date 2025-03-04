@@ -17,3 +17,8 @@ npm install vue-router@4
 
 Hace falta instalar firebase tambien 
 npm install firebase
+
+
+Para ponerlo en producción con github: 
+Instalar gh-pages:
+npm install --save-dev gh-pages
