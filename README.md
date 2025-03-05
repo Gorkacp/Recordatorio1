@@ -22,3 +22,6 @@ npm install firebase
 Para ponerlo en producción con github: 
 Instalar gh-pages:
 npm install --save-dev gh-pages
+
+npm run build
+npm run deploy
